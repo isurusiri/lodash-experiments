@@ -1,0 +1,18 @@
+{
+  "name": "lodash-experiments",
+  "version": "1.0.0",
+  "description": "A collection of lodash use cases",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "keywords": [
+    "lodash"
+  ],
+  "author": "@isurusiri",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.2"
+  }
+}
